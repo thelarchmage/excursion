@@ -26,6 +26,6 @@ p {
   color: gray;
 }
 
-p:last-of-type {
+footer {
   text-align: right
 }
